@@ -1,6 +1,7 @@
+<!--
 <h1 align="center">Hi , this is Akai</h1>
 <h3 align="center">今天又是写bug的一天！</h3>
-
+-->
 ![:name](https://count.getloli.com/get/@:akaimoe?theme=gelbooru)
 
 <!--
