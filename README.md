@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akai</h1>
+<h1 align="center">Hi , this is Akai</h1>
 <h3 align="center">今天又是写bug的一天！</h3>
 
 ![:name](https://count.getloli.com/get/@:akaimoe?theme=gelbooru)
@@ -42,6 +42,12 @@
 
 * ![](https://img.shields.io/badge/OpenCV-black?logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/CMake-yellow?logo=cmake&logoColor=white)
+
+### 学习中 | Learning
+* ![](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
+![](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-orange?logo=tensorflow&logoColor=white)
+
 
 ### 状态
 [![Akai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaimoe)](https://github.com/anuraghazra/github-readme-stats)
