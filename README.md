@@ -16,6 +16,7 @@
 * ![](https://img.shields.io/badge/Ubuntu-20.04-orange?logo=ubuntu&logoColor=orange)
 ![](https://img.shields.io/badge/Windows-10-blue?logo=Windows&logoColor=blue)
 ![](https://img.shields.io/badge/iOS-15.4-black?logo=ios&logoColor=black)
+![](https://img.shields.io/badge/iPadOS-16.1-black?logo=iPadOS&logoColor=black)
 
 ### 工具 | Tools
 
